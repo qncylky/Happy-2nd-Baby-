@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy 2nd Anniversary, My AK!</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #fff0f6;
+            color: #333;
+            text-align: center;
+            padding: 50px;
+            margin: 0;
+        }
+
+        h1 {
+            color: #ff66b2;
+            font-size: 48px;
+            margin-bottom: 30px;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        p {
+            font-size: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 10px;
+            line-height: 1.8;
+            color: #555;
+        }
+
+        .content {
+            background-color: #ffffff;
+            border-radius: 15px;
+            padding: 40px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
+            text-align: left;
+        }
+
+        .heart {
+            font-size: 50px;
+            color: #ff66b2;
+        }
+
+        .footer {
+            font-size: 18px;
+            margin-top: 30px;
+            color: #999;
+        }
+
+        .signature {
+            font-style: italic;
+            color: #777;
+        }
+
+        .hearts {
+            font-size: 80px;
+            color: #ff66b2;
+            margin-top: 30px;
+        }
+
+        .heart-animation {
+            animation: bounce 1s infinite alternate;
+        }
+
+        @keyframes bounce {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(-10px);
+            }
+        }
+
+        .heart-image {
+            width: 150px;
+            margin-top: 30px;
+            border-radius: 50%;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy 2nd Anniversary, My AK! 💖</h1>
+
+    <div class="content">
+        <p>
+            I’m sorry for the times when I’ve been difficult. I truly love you, and I give you my word that I’ll work on being better. Starting with being more in tune with you and mirroring things in a way that brings us closer. I love you, and I appreciate you more than words can express. I will always be grateful for having you in my life.
+        </p>
+        <p>
+            Being in a long-distance relationship is definitely not easy. I used to think it would be simple, but over time, I've realized that I was wrong. Even so, I’m still confident about us, just with a deeper understanding. I hope that one day we can be together in person—waking up next to you, sharing quiet mornings with you, and giving you good morning kisses.
+        </p>
+        <p>
+            I miss all the things we used to do together, but I know this distance is part of our journey. Everything that’s been happening between us feels like it’s meant to be. Maybe it’s to help us be even more certain about our love, regardless of the obstacles we face along the way.
+        </p>
+        <p>
+            I know you're busy, and so am I. I often feel overstimulated and exhausted, and I see how active and happy you are. I know you’ve got things going too, and I hope you're not feeling as strained as I sometimes do. I love you, and I hope you can feel that in everything I do. I hope you know just how much you mean to me.
+        </p>
+        <p>
+            I can't wait to see you. I'm so excited about our future and the success of our love. I get so kilig just imagining you as my driver when I need to go to places or even when I'm heading to the office. Just like how you’ve always been there for me, supporting me through every step of my journey—thank you for that, baby.
+        </p>
+        <p>
+            I love you and I miss you more than words can express, x10<sup>9</sup>. I dream of holding your hand as I sign a contract, just like you used to hold my hand when I studied, back when you were still here with me.
+        </p>
+        <p>
+            Once again, happy 2nd anniversary to us. Here's to many more moments together. 💖
+        </p>
+
+        <div class="hearts">
+            💖💖💖
+        </div>
+
+        <img src="https://via.placeholder.com/150/FF66B2/FFFFFF?text=Love" alt="Love Image" class="heart-image">
+
+    </div>
+
+    <div class="footer">
+        <p class="signature">With all my love, [Your Name]</p>
+    </div>
+
+</body>
+</html>
